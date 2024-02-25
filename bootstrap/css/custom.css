@@ -1,0 +1,9 @@
+.btn a:hover {
+    color: rgb(0, 171, 176);
+}
+.btn {
+    text-align: left;
+}
+.btn a {
+    text-align: left;
+}
